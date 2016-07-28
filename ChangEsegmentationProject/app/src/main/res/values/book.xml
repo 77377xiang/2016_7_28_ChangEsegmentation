@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="books">
+       <item>我在学Android</item>
+        <item>学Android</item>
+        <item>Android好难学</item>
+        <item>学Android要努力</item>
+    </string-array>
+</resources>
